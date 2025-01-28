@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES2016",
+    "module": "esNext",
+    "lib": [
+      "es2016",
+      "dom"
+    ],
+    "moduleResolution":"node",
+    "strict": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true
+  }
+}
